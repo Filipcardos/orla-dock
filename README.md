@@ -1,3 +1,23 @@
+# Orla Dock
+
+## Glass Edition v1.6 — Windows 11
+
+A nova implementação em C# / .NET 8 / WPF está em [Orla-Dock-Glass/](Orla-Dock-Glass/). Inclui dock Glass com ícones dinâmicos, posicionamento nas quatro bordas, calendário, controles do sistema e reserva de espaço com a API AppBar.
+
+- [Código e instruções de compilação](Orla-Dock-Glass/README.md)
+- [Alterações da v1.6](Orla-Dock-Glass/ATUALIZACAO-V1.6.md)
+
+```powershell
+cd Orla-Dock-Glass
+dotnet restore
+dotnet build -c Release
+dotnet run -c Release --no-build
+```
+
+A v1.6 é distribuída como código-fonte; compilação e testes específicos da AppBar no Windows ainda pendentes. A versão original em C e seu executável permanecem disponíveis abaixo.
+
+---
+
 # Orla Dock 0.1.0
 
 Dock portátil com visual próprio para Windows 10 e 11 x64. A interface é feita em C e

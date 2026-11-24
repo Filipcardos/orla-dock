@@ -1,2 +1,10 @@
 /OrlaDock.exe
 /orla-resource.o
+
+# .NET / WPF
+**/bin/
+**/obj/
+**/publish/
+.vs/
+*.user
+*.suo
