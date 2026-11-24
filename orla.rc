@@ -1,0 +1,26 @@
+1 ICON "orla.ico"
+1 24 "orla.manifest"
+
+1 VERSIONINFO
+FILEVERSION 0,1,0,0
+PRODUCTVERSION 0,1,0,0
+FILEOS 0x40004L
+FILETYPE 0x1L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041604B0"
+        BEGIN
+            VALUE "FileDescription", "Orla Dock"
+            VALUE "FileVersion", "0.1.0"
+            VALUE "InternalName", "OrlaDock"
+            VALUE "OriginalFilename", "OrlaDock.exe"
+            VALUE "ProductName", "Orla Dock"
+            VALUE "ProductVersion", "0.1.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x416, 1200
+    END
+END
