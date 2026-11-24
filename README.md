@@ -6,7 +6,10 @@ com as permissões da sua conta.
 
 ## Download
 
-A [versão v0.1.0](https://github.com/Filipcardos/orla-dock/releases/tag/v0.1.0) contém o executável portátil e o ZIP com o código-fonte.
+Os arquivos da [versão v0.1.0](https://github.com/Filipcardos/orla-dock/releases/tag/v0.1.0) estão na pasta [downloads/v0.1.0](downloads/v0.1.0).
+
+- [OrlaDock.exe](downloads/v0.1.0/OrlaDock.exe), executável portátil.
+- [OrlaDock-0.1.0.zip](downloads/v0.1.0/OrlaDock-0.1.0.zip), pacote com o executável e o código-fonte.
 
 ## Como usar
 
